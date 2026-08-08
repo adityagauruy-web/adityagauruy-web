@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adityagauruy-web/adityagauruy-web/main/spaceship.svg" width="100%"/>
+</p>
 # 💫 About Me:
 1. Results-driven Accounts & Finance Professional with 3+ years of experience in Accounting, Bookkeeping, Financial Reporting, Taxation, and Financial Operations.<br>2. Proficient in Tally ERP, Busy Accounting Software, SAP, SAP FICO, Zoho Books, MS Excel, Bank Reconciliation, GST Support, Invoice Processing, and Ledger Management.<br>3. Experienced in managing financial records, preparing reports, reconciling accounts, improving accounting accuracy, and streamlining invoicing and payment processes.<br>4. Strong analytical, problem-solving, and compliance skills with expertise in Accounts Payable (AP), Accounts Receivable (AR), General Ledger (GL), and ERP-based accounting systems.<br>5. Seeking opportunities as an Accountant, Accounts Executive, Finance Executive, SAP FICO Associate, or Financial Analyst to contribute through accurate financial management and business growth.<br>
 
